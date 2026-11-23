@@ -1,0 +1,22 @@
+{
+  "capital": 10000000.0,
+  "trades": 38,
+  "gross_pnl": 1034206.0031520003,
+  "cost": 31620.10880459,
+  "net_pnl": 1002585.8943474104,
+  "total_return": 0.10025858943474104,
+  "annualized_return_no_compounding": 0.02005171788694821,
+  "annualized_volatility": 0.018343697487840035,
+  "net_sharpe": 1.0948499682270747,
+  "gross_sharpe": 1.1296069193906246,
+  "max_drawdown": -0.02890335140556965,
+  "winning_trade_rate": 0.6842105263157895,
+  "max_active_limit": 10,
+  "margin_proxy_rate": 0.15,
+  "margin_proxy_capital_limit": 0.25,
+  "realized_max_active": 4,
+  "realized_max_gross_notional_to_capital": 0.6499434274999999,
+  "realized_max_ticker_notional_to_capital": 0.2499899125,
+  "realized_max_group_notional_to_capital": 0.399971675,
+  "realized_max_margin_proxy_to_capital": 0.097491514125
+}

@@ -1,0 +1,23 @@
+# Local/editor state
+.DS_Store
+.vscode/
+.idea/
+__pycache__/
+*.py[cod]
+.env
+
+# WRDS and generated binary data are not distributed
+futspread_data/
+*.parquet
+
+# Earlier coursework and local archives are outside this repository's scope
+hw2_codes/
+hw2_results/
+archive/
+build_data.py
+cl_cot_raw.parquet
+cl_front_month.parquet
+
+# Runtime caches
+.matplotlib/
+.pytest_cache/
