@@ -20,3 +20,6 @@ python -m assignment10.code.make_assignment_q1_q2
 
 The main partial submission is
 `results/submission/assignment_answers_q1_q2_q3b.md`.
+
+Question 2(b)'s required cumulative gross/net P&L chart is
+[`results/submission/question2_cumulative_gross_net_pnl.png`](results/submission/question2_cumulative_gross_net_pnl.png).

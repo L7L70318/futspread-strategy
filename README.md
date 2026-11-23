@@ -16,6 +16,10 @@ on the locked 2021–2025 holdout.
 The main write-up is
 [`assignment10/results/submission/assignment_answers_q1_q2_q3b.md`](assignment10/results/submission/assignment_answers_q1_q2_q3b.md).
 
+## Holdout cumulative P&L
+
+![Cumulative gross and net P&L, 2021–2025](assignment10/results/submission/question2_cumulative_gross_net_pnl.png)
+
 ## Repository layout
 
 - `futspread/`: course package plus explicit `POINT_VALUE` contract metadata.
